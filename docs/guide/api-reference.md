@@ -14,8 +14,6 @@ Donec ut augue neque. Aliquam sed sem eu lacus posuere semper sit amet quis orci
 
 ### Code
 
-
-    ```
-    for x in range(10):
-        print x+1
-    ```
+ ```
+    python3 manage.py runserver
+```
